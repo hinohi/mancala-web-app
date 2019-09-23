@@ -8,6 +8,7 @@ bin
 wasm-pack.log
 
 # Elm
+elm.js
 elm-stuff
 repl-temp-*
 
